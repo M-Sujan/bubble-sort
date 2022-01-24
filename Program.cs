@@ -24,6 +24,5 @@ public class Bubble_Sort
         foreach (int aa in a)
             Console.Write(aa + " ");
         Console.Write("\n");
-
     }
 }
